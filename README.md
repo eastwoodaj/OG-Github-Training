@@ -13,3 +13,4 @@ Markdown _italics_ and **bold font** - more info on how to format text using Mar
 [Wonderfully Open Ontario Data](www.ontario.ca/data) 
 
 Here are my changes. 
+ Good work - more stats please
