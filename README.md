@@ -2,6 +2,10 @@
 Testing Testing One Two Three
 Please edit this document as part of the training.
 
+Change it a lot
+I have removed the exclamation marks even though I think Open Government is exciting.
+
+
 Christine added: 
 * "63% of all statistics are made up... including this one."
 
